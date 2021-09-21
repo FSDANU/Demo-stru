@@ -1,3 +1,3 @@
 Demo-stru
 
-some description on git & project info 
+some description on git & project info !
